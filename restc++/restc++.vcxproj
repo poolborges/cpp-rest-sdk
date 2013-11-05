@@ -13,6 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{87415A14-B805-4FAF-B68D-01B03F6A6B00}</ProjectGuid>
     <RootNamespace>restc</RootNamespace>
+    <ProjectName>restc++</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
